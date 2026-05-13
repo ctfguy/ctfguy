@@ -1,15 +1,15 @@
-### Hey there! I’m [Harish Sekar (aka ctfguy)](https://www.linkedin.com/in/harish-sekar-460625266/) 👋
+### Hey there! I’m [Harish Sekar (aka ctfguy)](https://www.linkedin.com/in/harish-sekar-460625266/) 
 
 ---
 
-### 🧠 About Me
+### About Me
 
-* 🎯 **CTF Enthusiast** — I love the thrill of Capture The Flag competitions, especially diving into **cryptography** and **reverse engineering** challenges.
-* 🔐 **Math/Cryptography Lover** —  Fascinated by the math behind the magic; always exploring how systems fail—and how to secure them.
-* 🔗 **Blockchain Explorer** — Currently exploring the world of **Solana**.
-* 🚀 Always up for a challenge, and always learning something new 🔍
+* **CTF Enthusiast** — I love the thrill of Capture The Flag competitions, especially diving into **cryptography** and **reverse engineering** challenges.
+* **Math/Cryptography Lover** —  Fascinated by the math behind the magic; always exploring how systems fail—and how to secure them.
+* **Blockchain Explorer** — Currently exploring the world of **Solana**.
+* Always up for a challenge, and always learning something new 
 ---
-### ⚙️ Coding Stack 
+### Coding Stack 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
@@ -17,7 +17,7 @@
 ![x86, x86_64 Intel Assembly](https://img.shields.io/badge/-Intel_Assembly-000000?style=flat&logo=intel)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
 
-### 🛠️ Tools of the Trade: 
+### Tools of the Trade: 
 
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) 
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
