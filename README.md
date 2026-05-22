@@ -1,13 +1,10 @@
-### Hey there! I’m [Harish Sekar (aka ctfguy)](https://www.linkedin.com/in/harish-sekar-460625266/) 
+### Hi, I’m [Harish Sekar](https://www.linkedin.com/in/harish-sekar-460625266/) — `ctfguy`
 
----
+Security-focused software engineer interested in cryptography, reverse engineering, blockchain security, and AI systems.
 
-### About Me
+Previously an AI Software Engineer at [HacktronAI](https://github.com/HacktronAI/), where I researched, designed, and built AI agents for detecting business logic vulnerabilities.
 
-* **CTF Enthusiast** — I love the thrill of Capture The Flag competitions, especially diving into **cryptography** and **reverse engineering** challenges.
-* **Math/Cryptography Lover** —  Fascinated by the math behind the magic; always exploring how systems fail—and how to secure them.
-* **Blockchain Explorer** — Currently exploring the world of **Solana**.
-* Always up for a challenge, and always learning something new 
+I have experience with CTFs, Solana, applied cryptography, and program analysis. Currently exploring AI/ML research, LLM capabilities, and their applications in security automation.
 ---
 ### Coding Stack 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) 
@@ -17,7 +14,7 @@
 ![x86, x86_64 Intel Assembly](https://img.shields.io/badge/-Intel_Assembly-000000?style=flat&logo=intel)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
 
-### Tools of the Trade: 
+### Tools: 
 
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) 
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
