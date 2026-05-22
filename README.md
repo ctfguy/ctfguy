@@ -5,6 +5,7 @@ Security-focused software engineer interested in cryptography, reverse engineeri
 Previously an AI Software Engineer at [HacktronAI](https://github.com/HacktronAI/), where I researched, designed, and built AI agents for detecting business logic vulnerabilities.
 
 I have experience with CTFs, Solana, applied cryptography, and program analysis. Currently exploring AI/ML research, LLM capabilities, and their applications in security automation.
+
 ---
 ### Coding Stack 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) 
